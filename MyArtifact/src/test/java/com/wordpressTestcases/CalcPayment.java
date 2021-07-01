@@ -8,7 +8,7 @@ import com.wordpressPages.CalcPage_New;
 import com.wordpressutilites.openBrowser;
 
 public class CalcPayment {
-
+// temp comment
 @Test
 	
 	public  void captureMonthlyPayment() {
