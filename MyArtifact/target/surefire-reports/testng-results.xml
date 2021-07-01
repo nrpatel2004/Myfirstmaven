@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-01T10:20:10 PDT" name="Suite" finished-at="2021-07-01T10:20:24 PDT" duration-ms="13738">
+  <suite started-at="2021-07-01T11:33:39 PDT" name="Suite" finished-at="2021-07-01T11:33:55 PDT" duration-ms="15933">
     <groups>
     </groups>
-    <test started-at="2021-07-01T10:20:10 PDT" name="Test" finished-at="2021-07-01T10:20:24 PDT" duration-ms="13738">
+    <test started-at="2021-07-01T11:33:39 PDT" name="Test" finished-at="2021-07-01T11:33:55 PDT" duration-ms="15933">
       <class name="com.wordpressTestcases.CalcPayment">
-        <test-method signature="captureMonthlyPayment()[pri:0, instance:com.wordpressTestcases.CalcPayment@5c90e579]" started-at="2021-07-01T10:20:10 PDT" name="captureMonthlyPayment" finished-at="2021-07-01T10:20:24 PDT" duration-ms="13665" status="PASS">
+        <test-method signature="captureMonthlyPayment()[pri:0, instance:com.wordpressTestcases.CalcPayment@5c90e579]" started-at="2021-07-01T11:33:39 PDT" name="captureMonthlyPayment" finished-at="2021-07-01T11:33:55 PDT" duration-ms="15816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureMonthlyPayment -->
