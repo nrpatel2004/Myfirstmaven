@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.wordpressTestcases.CalcPayment">
+      <class name="com.wordpressTestcases.Temp_TestNg2">
         <methods>
-          <include name="captureMonthlyPayment"/>
+          <include name="aftermytest"/>
+          <include name="beforemytest"/>
+          <include name="mytest2"/>
         </methods>
-      </class> <!-- com.wordpressTestcases.CalcPayment -->
+      </class> <!-- com.wordpressTestcases.Temp_TestNg2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

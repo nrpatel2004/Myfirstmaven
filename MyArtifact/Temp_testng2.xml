@@ -2,9 +2,13 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite" parallel="true">
   <test thread-count="5" name="Test">
+  
+  <parameter name = "a" value ="20"></parameter>
+  <parameter name = "b" value ="30"></parameter>
+  <parameter name = "c" value ="52"></parameter>
+  
     <classes>
-      <class name="com.wordpressTestcases.CalcPayment"/>
-       <class name="com.wordpressTestcases.Temp_TestNG"/>
+      <class name="com.wordpressTestcases.Temp_TestNg2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
